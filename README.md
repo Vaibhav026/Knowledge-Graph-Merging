@@ -2,7 +2,9 @@
 
 # Dataset
 Nation Dataset(https://github.com/dongwookim-ml/kg-data/tree/master/nation)
+
 NELL Sports Dataset(http://talukdar.net/mall-lab/KGEval/)
+
 # Code
 Merger.ipynb contains the code for merging two datasets.
 
